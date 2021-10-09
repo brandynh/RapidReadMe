@@ -34,7 +34,7 @@ After completeing installation:
 - Step 2: In terminal run "node ." or "node index.js"
 - Step 3: Fill out information
 
-Click [here]() to visit a demo
+Click [here](https://drive.google.com/file/d/1c4xiDX200W9og4IQb5VubF_zGkAxZCj4/view) to visit a demo
 
     
 ## Questions?
