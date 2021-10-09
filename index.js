@@ -1,5 +1,7 @@
 const inquirer = require("inquirer");
 const fs = require('fs');
+const generateReadMe = require('./readMeOutline');
+
 
 const questions = () => {
     return inquirer.prompt([
@@ -57,3 +59,16 @@ const questions = () => {
 ])
 };
 
+function writeToFile(fileName, data) {
+    fs.writeFileSync(`./userReadMe/${data.title}README.md`, generateReadMe(data))
+};
+
+
+const init = () => {
+    questions()
+        .then((data) => writeToFile(null, data))
+        .catch((err) => console.error(err));
+};
+
+// Function call to initialize app
+init();

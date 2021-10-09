@@ -1,4 +1,4 @@
-// Function to generate generic readMe
+// Function to generate read me
 
 const generateReadMe = (data) => {
     return`# ${data.title}
