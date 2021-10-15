@@ -20,20 +20,20 @@
 This program makes a rapid read me
 
 ## Installation
-Click the link 
+Click the link
     
 ## Usage
-making readme easier
+make read me easier
     
 ## Test-Instructions
 Install and run
     
 ## Questions
-- Github: brandynh
-- E-mail: brandyn.huffer@email.com
+- Github: [Click here](https://github.com/brandynh)
+- E-mail: [Click here](brandyn.huffer@email.com)
     
 ## Contributors
-Brandyn 
+Brandyn
     
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

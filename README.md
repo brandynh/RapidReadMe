@@ -39,8 +39,8 @@ Click [here](https://drive.google.com/file/d/1c4xiDX200W9og4IQb5VubF_zGkAxZCj4/v
     
 ## Questions?
 
-- Github: brandynh
-- E-mail: hufferbrandyn@gmail.com
+- Github: [Click here](https://github.com/brandynh)
+- E-mail: [Click here](hufferbrandyn@gmail.com) 
     
 ## Credits
 

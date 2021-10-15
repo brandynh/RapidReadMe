@@ -32,8 +32,8 @@ ${data.useage}
 ${data.testInstruction}
     
 ## Questions
-- Github: ${data.gitHub}
-- E-mail: ${data.email}
+- Github: [Click here](https://github.com/${data.gitHub})
+- E-mail: [Click here](${data.email})
     
 ## Contributors
 ${data.contributors}
